@@ -2,84 +2,84 @@ const Menu = [
     {
       id: 1,
       image: "images/maggi.jpg",
-      name: "maggi",
-      category: "breakfast",
+      name: "Maggi",
+      category: "Breakfast",
       price: "12₹",
       description:
-        "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+        "Maggi is an international brand of seasonings, instant soups, and noodles that originated in Switzerland in the late 19th century. The Maggi company was acquired by Nestlé in 1947. ",
     },
   
     {
       id: 2,
       image: "images/allupakoida.jpg",
-      name: "allu pakoida",
-      category: "evening",
+      name: "Allu Pakoda",
+      category: "Evening",
       price: "20₹",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+        "Pakoras are made by coating ingredients, usually vegetables, in a spiced batter, then deep frying them. Common varieties of pakora use onion, eggplant, potato, spinach, plantain, paneer, bread, cauliflower, mint, tomato, or chili pepper."
     },
     {
       id: 3,
       image: "images/corn.jpg",
-      name: "corn",
-      category: "breakfast",
+      name: "Corn",
+      category: "Breakfast",
       price: "10₹",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+        "Fresh corn is considered a starchy vegetable. Its nutrient content differs from dry corn, and it is eaten in different ways -- often on the cob, as a side dish, or mixed with other vegetables. ",
     },
     {
       id: 4,
       image: "../images/chola.jpg",
-      name: "chola",
-      category: "lunch",
+      name: "Chola",
+      category: "Lunch",
       price: "50₹",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+        "Chola Chana Masala is one of the most popular North Indian dishes that is prepared with chickpeas. It's a weekend specialty in most households and called Chole Bhature when served with Bhature (fried puffed bread). ",
     },
     {
       id: 5,
       image: "../images/pizza.jpg",
-      name: "pizza",
-      category: "evening",
+      name: "Pizza",
+      category: "Evening",
       price: "80₹",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+        "Pizza is a dish of Italian origin consisting of a usually round, flat base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients, which is then baked at a high temperature, traditionally in a wood-fired oven. ",
     },
     {
       id: 6,
       image: "../images/nonvegthali.jpg",
       name: "Non-Veg Thali",
-      category: "dinner",
+      category: "Dinner",
       price: "180₹",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+        "A thali is a combination of various dishes put together to make a whole meal. An average non-vegetarian thali usually contains salad, rice, chappati and gravy or dry chicken/mutton/fish dish to go with it. ",
     },
     {
       id: 7,
       image: "../images/sweet.jpg",
-      name: "Sweets",
-      category: "dinner",
+      name: "Desserts",
+      category: "Dinner",
       price: "60₹",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+        "Desserts can be defined as a usually sweeter course that concludes a meal. This definition includes a range of courses ranging from fruits or dried nuts to multi-ingredient cakes and pies. Many cultures have different variations of dessert.",
     },
     {
       id: 8,
       image: "../images/rajmarice.jpg",
       name: "Rajma Rice",
-      category: "lunch",
+      category: "Lunch",
       price: "60₹",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+        "Rajmah, rāzmā, or lal lobia, is a vegetarian dish, originating from the Indian subcontinent, consisting of red kidney beans in a thick gravy with many Indian whole spices, and is usually served with rice. ",
     },
     {
       id: 9,
       image: "../images/samosa.jpg",
-      name: "samaso",
-      category: "evening",
+      name: "Samosa",
+      category: "Evening",
       price: "10₹",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+        "A samosa is a fried or baked pastry with a savory filling, including ingredients such as spiced potatoes, onions, and peas. It may take different forms, including triangular, cone, or half-moon shapes, depending on the region. ",
     },
   ];
   
